@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://nerdexpo.com.br/sitemap.xml
